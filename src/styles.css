@@ -1,0 +1,7 @@
+/* Add application styles & imports to this file! */
+
+th,td {
+  text-align: center;
+  border: 1px dotted rgb(49, 2, 63);
+  padding: 2px 2px 2px 2px ;
+}
